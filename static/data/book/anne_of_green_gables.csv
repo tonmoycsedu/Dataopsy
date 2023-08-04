@@ -1,0 +1,514 @@
+COREF,chapter,cat,COREF_head,count
+1,0,GPE,Avonlea,9
+1,3,GPE,Avonlea,2
+1,7,GPE,Avonlea,2
+1,13,GPE,Avonlea,5
+1,15,GPE,Avonlea,3
+1,18,GPE,Avonlea,7
+1,19,GPE,Avonlea,2
+1,20,GPE,Avonlea,4
+1,22,GPE,Avonlea,2
+1,28,GPE,Avonlea,3
+1,29,GPE,Avonlea,3
+1,29,PER,Avonlea,2
+1,31,GPE,Avonlea,9
+1,32,GPE,Avonlea,4
+1,34,GPE,Avonlea,3
+4,0,GPE,Carmody,2
+4,14,GPE,Carmody,2
+4,15,GPE,Carmody,2
+4,16,GPE,Carmody,2
+4,26,GPE,Carmody,2
+4,34,GPE,Carmody,2
+5,0,LOC,Bright River,4
+6,0,GPE,Nova Scotia,3
+6,3,GPE,Nova Scotia,2
+10,0,LOC,the Island,2
+10,1,LOC,the Island,2
+10,29,LOC,the Island,2
+19,1,GPE,Newbridge,2
+19,17,GPE,Newbridge,2
+20,25,FAC,Orchard Slope,2
+21,3,LOC,Shining Waters,2
+21,13,LOC,Shining Waters,3
+27,3,LOC,White Sands,3
+30,3,GPE,Bolingbroke,2
+31,4,GPE,Marysville,2
+47,13,FAC,Lover ’s Lane,3
+73,25,GPE,Camelot,2
+76,29,GPE,Beechwood,2
+78,32,FAC,Queen ’s,3
+78,32,GPE,Queen ’s,2
+90,31,FAC,Redmond College,2
+93,32,FAC,Lovers ’ Lane,2
+96,32,GPE,Redmond,2
+96,34,GPE,Redmond,3
+103,0,PER,Mrs. Lynde,102
+103,1,PER,Mrs. Lynde,2
+103,7,PER,Mrs. Lynde,63
+103,8,PER,Mrs. Lynde,58
+103,9,PER,Mrs. Lynde,4
+103,10,PER,Mrs. Lynde,7
+103,11,PER,Mrs. Lynde,2
+103,12,PER,Mrs. Lynde,2
+103,14,PER,Mrs. Lynde,32
+103,15,PER,Mrs. Lynde,14
+103,16,PER,Mrs. Lynde,2
+103,17,PER,Mrs. Lynde,18
+103,18,PER,Mrs. Lynde,18
+103,19,PER,Mrs. Lynde,7
+103,20,PER,Mrs. Lynde,13
+103,21,PER,Mrs. Lynde,2
+103,22,PER,Mrs. Lynde,17
+103,23,PER,Mrs. Lynde,5
+103,24,PER,Mrs. Lynde,11
+103,25,PER,Mrs. Lynde,3
+103,26,PER,Mrs. Lynde,10
+103,28,PER,Mrs. Lynde,59
+103,29,PER,Mrs. Lynde,6
+103,32,PER,Mrs. Lynde,19
+103,33,PER,Mrs. Lynde,3
+103,34,PER,Mrs. Lynde,35
+104,0,PER,Thomas Lynde,2
+105,0,PER,Matthew,76
+105,1,PER,Matthew,184
+105,2,PER,Matthew,51
+105,3,PER,Matthew,35
+105,4,PER,Matthew,4
+105,5,PER,Matthew,31
+105,6,PER,Matthew,3
+105,7,PER,Matthew,7
+105,8,PER,Matthew,42
+105,10,PER,Matthew,9
+105,11,PER,Matthew,8
+105,12,PER,Matthew,23
+105,13,PER,Matthew,14
+105,14,PER,Matthew,17
+105,15,PER,Matthew,52
+105,16,PER,Matthew,20
+105,17,PER,Matthew,25
+105,18,PER,Matthew,7
+105,19,PER,Matthew,15
+105,20,PER,Matthew,8
+105,21,PER,Matthew,41
+105,22,PER,Matthew,98
+105,23,PER,Matthew,9
+105,24,PER,Matthew,30
+105,26,PER,Matthew,8
+105,27,PER,Matthew,6
+105,28,PER,Matthew,12
+105,29,PER,Matthew,20
+105,30,PER,Matthew,15
+105,31,PER,Matthew,20
+105,32,PER,Matthew,55
+105,33,PER,Matthew,50
+106,0,PER,Peter,2
+107,22,PER,William Blair,5
+108,0,PER,Marilla,2
+108,6,PER,Marilla,27
+108,7,PER,Marilla,16
+108,18,PER,Marilla,4
+110,22,PER,the Cuthberts,2
+111,0,PER,Trees,2
+112,0,PER,Marilla,64
+112,1,PER,Marilla,36
+112,2,PER,Marilla,65
+112,3,PER,Marilla,73
+112,4,PER,Marilla,75
+112,5,PER,Marilla,121
+112,6,PER,Marilla,37
+112,7,PER,Marilla,99
+112,8,PER,Marilla,95
+112,9,PER,Marilla,77
+112,10,PER,Marilla,52
+112,11,PER,Marilla,56
+112,12,PER,Marilla,115
+112,13,PER,Marilla,82
+112,14,PER,Marilla,116
+112,15,PER,Marilla,74
+112,16,PER,Marilla,52
+112,17,PER,Marilla,81
+112,18,PER,Marilla,78
+112,19,PER,Marilla,59
+112,20,PER,Marilla,122
+112,21,PER,Marilla,36
+112,22,PER,Marilla,41
+112,23,PER,Marilla,12
+112,24,PER,Marilla,112
+112,25,PER,Marilla,38
+112,26,PER,Marilla,40
+112,27,PER,Marilla,104
+112,28,PER,Marilla,88
+112,29,PER,Marilla,26
+112,30,PER,Marilla,15
+112,31,PER,Marilla,63
+112,32,PER,Marilla,41
+112,33,PER,Marilla,113
+112,34,PER,Marilla,84
+112,35,PER,Marilla,4
+113,0,PER,Mrs. Spencer,18
+113,1,PER,Mrs. Spencer,29
+113,2,PER,Mrs. Spencer,6
+113,3,PER,Mrs. Spencer,2
+113,4,PER,Mrs. Spencer,41
+113,5,PER,Mrs. Spencer,2
+116,1,PER,Mr. Cuthbert,6
+116,14,PER,Mr. Cuthbert,2
+116,22,PER,Mr. Cuthbert,2
+119,1,PER,Mrs. Barry,2
+119,7,PER,Mrs. Barry,4
+119,10,PER,Mrs. Barry,12
+119,14,PER,Mrs. Barry,4
+119,15,PER,Mrs. Barry,57
+119,16,PER,Mrs. Barry,21
+119,17,PER,Mrs. Barry,21
+119,18,PER,Mrs. Barry,3
+119,19,PER,Mrs. Barry,5
+119,20,PER,Mrs. Barry,4
+120,1,PER,Mr. Barry,4
+120,11,PER,Mr. Barry,2
+120,20,PER,Mr. Barry,9
+120,26,PER,Mr. Barry,3
+120,28,PER,Mr. Barry,2
+120,34,PER,Mr. Barry,2
+121,1,PER,Diana,5
+121,7,PER,Diana,17
+121,10,PER,Diana,74
+121,11,PER,Diana,22
+121,13,PER,Diana,38
+121,14,PER,Diana,151
+121,15,PER,Diana,68
+121,16,PER,Diana,35
+121,17,PER,Diana,88
+121,18,PER,Diana,17
+121,19,PER,Diana,30
+121,20,PER,Diana,25
+121,21,PER,Diana,2
+121,22,PER,Diana,26
+121,23,PER,Diana,33
+121,24,PER,Diana,59
+121,25,PER,Diana,25
+121,26,PER,Diana,46
+121,27,PER,Diana,37
+121,28,PER,Diana,10
+121,29,PER,Diana,145
+121,30,PER,Diana,18
+121,31,PER,Diana,11
+121,32,PER,Diana,22
+121,33,PER,Diana,16
+121,34,PER,Diana,4
+122,13,PER,Jane,6
+122,15,PER,Jane,6
+122,18,PER,Jane,10
+122,20,PER,Jane,7
+122,21,PER,Jane,2
+122,24,PER,Jane,7
+122,25,PER,Jane,17
+122,26,PER,Jane,8
+122,27,PER,Jane,3
+122,28,PER,Jane,12
+122,29,PER,Jane,13
+122,30,PER,Jane,19
+122,31,PER,Jane,18
+122,32,PER,Jane,30
+122,33,PER,Jane,2
+123,13,PER,Julia Bell,3
+123,20,PER,Julia Bell,2
+123,23,PER,Julia Bell,3
+123,26,PER,Julia Bell,3
+124,1,PER,Cordelia,4
+124,2,PER,Cordelia,5
+124,12,PER,Cordelia,2
+125,2,PER,Anne,115
+125,3,PER,Anne,157
+125,4,PER,Anne,98
+125,5,PER,Anne,115
+125,6,PER,Anne,84
+125,7,PER,Anne,169
+125,8,PER,Anne,229
+125,9,PER,Anne,54
+125,10,PER,Anne,55
+125,11,PER,Anne,149
+125,12,PER,Anne,32
+125,13,PER,Anne,199
+125,14,PER,Anne,345
+125,15,PER,Anne,300
+125,16,PER,Anne,111
+125,17,PER,Anne,192
+125,18,PER,Anne,107
+125,19,PER,Anne,38
+125,20,PER,Anne,156
+125,21,PER,Anne,54
+125,22,PER,Anne,67
+125,23,PER,Anne,78
+125,24,PER,Anne,123
+125,25,PER,Anne,75
+125,26,PER,Anne,60
+125,27,PER,Anne,4
+125,28,PER,Anne,37
+125,29,PER,Anne,30
+125,32,PER,Anne,146
+125,34,PER,Anne,24
+125,35,PER,Anne,50
+126,3,PER,Jerry,3
+126,13,PER,Jerry,3
+126,14,PER,Jerry,2
+127,2,PER,Lily,3
+128,3,PER,Bonny,3
+130,3,PER,Walter,2
+131,3,PER,Bertha,2
+132,3,PER,Jedediah,2
+133,3,PER,Mrs. Thomas,3
+133,4,PER,Mrs. Thomas,14
+133,7,PER,Mrs. Thomas,9
+133,28,PER,Mrs. Thomas,2
+133,34,PER,Mrs. Thomas,2
+134,5,PER,Father,6
+135,4,PER,Mr. Thomas,3
+135,7,PER,Mr. Thomas,2
+136,4,PER,Mrs. Hammond,12
+136,7,PER,Mrs. Hammond,2
+136,16,PER,Mrs. Hammond,4
+137,4,PER,Mr. Hammond,2
+140,4,PER,Americans,2
+141,4,PER,Gilbert,3
+141,13,PER,Gilbert,39
+141,14,PER,Gilbert,39
+141,15,PER,Gilbert,17
+141,17,PER,Gilbert,7
+141,25,PER,Gilbert,38
+141,27,PER,Gilbert,2
+141,28,PER,Gilbert,19
+141,29,PER,Gilbert,10
+141,30,PER,Gilbert,7
+141,31,PER,Gilbert,13
+141,32,PER,Gilbert,21
+141,33,PER,Gilbert,15
+141,34,PER,Gilbert,18
+141,35,PER,Gilbert,25
+142,4,PER,Flora Jane,4
+143,4,PER,Mrs. Blewett,21
+143,5,PER,Mrs. Blewett,9
+145,5,PER,God,9
+145,9,PER,God,5
+145,15,PER,God,2
+145,16,PER,God,2
+145,25,PER,God,6
+145,35,PER,God,2
+146,5,PER,Marilla,5
+146,6,PER,Marilla,27
+148,7,PER,Katie Maurice,7
+149,7,PER,Violet Vale,5
+149,13,FAC,Violet Vale,3
+153,8,PER,Good Mrs. Lynde,10
+154,9,PER,Anne,185
+154,10,PER,Anne,68
+155,9,PER,Mr. Bell,10
+156,9,PER,Miss Rogerson,18
+157,25,PER,Elaine,19
+158,13,PER,Mr. Harmon Andrews,2
+158,25,PER,Mr. Harmon Andrews,2
+158,27,PER,Mr. Harmon Andrews,2
+162,0,FAC,Green Gables,9
+162,1,FAC,Green Gables,6
+162,2,FAC,Green Gables,6
+162,5,FAC,Green Gables,3
+162,7,FAC,Green Gables,6
+162,8,FAC,Green Gables,2
+162,9,FAC,Green Gables,3
+162,11,PER,Green Gables,62
+162,12,PER,Green Gables,111
+162,13,FAC,Green Gables,4
+162,14,FAC,Green Gables,2
+162,15,FAC,Green Gables,3
+162,17,PER,Green Gables,3
+162,18,FAC,Green Gables,2
+162,18,PER,Green Gables,127
+162,19,FAC,Green Gables,2
+162,24,FAC,Green Gables,4
+162,27,FAC,Green Gables,3
+162,28,FAC,Green Gables,2
+162,29,FAC,Green Gables,3
+162,30,FAC,Green Gables,3
+162,31,FAC,Green Gables,2
+162,31,PER,Green Gables,115
+162,32,FAC,Green Gables,3
+162,32,PER,Green Gables,4
+162,33,FAC,Green Gables,6
+162,34,FAC,Green Gables,4
+164,23,PER,Alice Bell,4
+165,13,PER,Mr. Bell,2
+165,14,PER,Mr. Bell,3
+166,13,PER,Prissy Andrews,14
+166,15,PER,Prissy Andrews,8
+166,17,PER,Prissy Andrews,5
+166,18,PER,Prissy Andrews,2
+166,27,PER,Prissy Andrews,2
+166,29,PER,Prissy Andrews,4
+167,13,PER,Tillie Boulter,3
+167,14,PER,Tillie Boulter,21
+168,13,PER,Ruby Gillis,15
+168,14,PER,Ruby Gillis,6
+168,15,PER,Ruby Gillis,8
+168,18,PER,Ruby Gillis,7
+168,20,PER,Ruby Gillis,12
+168,21,PER,Ruby Gillis,3
+168,23,PER,Ruby Gillis,8
+168,24,PER,Ruby Gillis,16
+168,25,PER,Ruby Gillis,25
+168,27,PER,Ruby Gillis,11
+168,28,PER,Ruby Gillis,9
+168,29,PER,Ruby Gillis,12
+168,31,PER,Ruby Gillis,23
+168,32,PER,Ruby Gillis,6
+168,33,PER,Ruby Gillis,2
+169,13,PER,Mr. Phillips,9
+169,14,PER,Mr. Phillips,46
+169,15,PER,Mr. Phillips,17
+169,17,PER,Mr. Phillips,2
+169,18,PER,Mr. Phillips,23
+170,13,PER,Sophia Sloane,2
+171,13,PER,Ella May,3
+173,13,PER,Charlie Sloane,5
+173,14,PER,Charlie Sloane,2
+173,15,PER,Charlie Sloane,5
+173,18,PER,Charlie Sloane,5
+173,28,PER,Charlie Sloane,4
+173,29,PER,Charlie Sloane,5
+174,15,PER,Gil,2
+174,18,PER,Gil,2
+174,23,PER,Gil,3
+175,13,PER,Josie Pye,6
+175,20,PER,Josie Pye,25
+175,21,PER,Josie Pye,8
+175,22,PER,Josie Pye,2
+175,23,PER,Josie Pye,5
+175,24,PER,Josie Pye,4
+175,25,PER,Josie Pye,2
+175,26,PER,Josie Pye,3
+175,27,PER,Josie Pye,2
+175,28,PER,Josie Pye,9
+175,29,PER,Josie Pye,13
+175,30,PER,Josie Pye,5
+175,31,PER,Josie Pye,25
+175,32,PER,Josie Pye,13
+175,33,PER,Josie Pye,12
+175,34,PER,Josie Pye,2
+176,13,PER,Gertie Pye,3
+176,14,PER,Gertie Pye,3
+176,15,PER,Gertie Pye,2
+177,13,PER,Carrots,2
+178,14,PER,Tommy Sloane,4
+185,16,PER,Young Mary Joe,8
+186,14,PER,Em White,2
+187,14,PER,Sam,2
+189,14,PER,Lizzie Wright,3
+190,14,PER,Mamie Wilson,2
+193,14,PER,Mrs. Chester Ross,7
+195,15,PER,Minnie Andrews,8
+195,18,PER,Minnie Andrews,3
+197,15,PER,little Timothy Andrews,2
+202,26,PER,Mother,2
+204,15,PER,Waterloo,5
+216,16,PER,Pa,2
+217,17,PER,Carrie Sloane,3
+217,20,PER,Carrie Sloane,4
+223,17,PER,Aunt Josephine,13
+223,26,PER,Aunt Josephine,4
+224,17,PER,Miss Barry,28
+224,18,PER,Miss Barry,66
+224,20,PER,Miss Barry,3
+224,24,PER,Miss Barry,4
+224,26,PER,Miss Barry,28
+224,27,PER,Miss Barry,52
+224,31,PER,Miss Barry,18
+224,32,PER,Miss Barry,5
+225,17,PER,Old Miss Barry,4
+227,18,PER,All Mr. Silas Sloane,2
+228,18,PER,the Mayflowers,3
+229,18,PER,Arty,3
+233,18,PER,Mr. Bentley,16
+237,18,PER,Mr. Gresham,3
+238,18,PER,Mr. Marshall,4
+239,18,PER,Mr. Allan,11
+239,19,PER,Mr. Allan,3
+239,23,PER,Mr. Allan,3
+239,24,PER,Mr. Allan,2
+239,27,PER,Mr. Allan,4
+239,28,PER,Mr. Allan,6
+240,18,PER,Anne,37
+240,19,PER,Anne,143
+240,20,PER,Anne,79
+240,21,PER,Anne,15
+240,23,PER,Anne,16
+240,24,PER,Anne,97
+240,25,PER,Anne,87
+240,26,PER,Anne,123
+240,27,PER,Anne,178
+240,28,PER,Anne,126
+240,29,PER,Anne,246
+240,30,PER,Anne,168
+240,31,PER,Anne,25
+240,32,PER,Anne,36
+240,33,PER,Anne,218
+240,34,PER,Anne,85
+242,18,PER,Mr. Bell,3
+242,19,PER,Mr. Bell,2
+242,20,PER,Mr. Bell,19
+242,25,PER,Mr. Bell,2
+245,20,PER,Lauretta,11
+246,20,PER,Miss Stacy,12
+246,21,PER,Miss Stacy,5
+246,23,PER,Miss Stacy,3
+246,24,PER,Miss Stacy,3
+246,27,PER,Miss Stacy,36
+246,28,PER,Miss Stacy,26
+246,29,PER,Miss Stacy,20
+248,20,PER,Anne,2
+249,21,PER,Hope,2
+252,22,PER,Samuel,6
+253,22,PER,Miss Harris,19
+254,22,PER,Jenny Gillis,2
+258,23,PER,Bessie,4
+259,23,PER,the Sloanes,3
+260,23,PER,the Bells,4
+261,23,PER,Moody Spurgeon,4
+261,26,PER,Moody Spurgeon,3
+261,28,PER,Moody Spurgeon,13
+261,29,PER,Moody Spurgeon,39
+262,24,PER,Cordelia,16
+263,24,PER,Geraldine,17
+264,24,PER,Bertram,15
+265,24,PER,Malcolm,5
+266,24,PER,Susan,4
+269,24,PER,the Angel Gabriel,3
+272,25,PER,Lancelot,3
+273,25,PER,Guinevere,3
+274,25,PER,King Arthur,2
+277,26,PER,Charlotte,2
+280,26,PER,Madame,2
+281,27,PER,Myrtle,2
+282,27,PER,Ben Hur,8
+283,28,PER,Dear Stacy,2
+295,30,PER,Billy,9
+296,30,PER,Mrs. Evans,7
+298,30,PER,Titian,2
+299,31,PER,Emily,4
+300,31,PER,Frank Stockley,7
+300,32,PER,Frank Stockley,3
+302,32,PER,Stella Maynard,5
+307,32,PER,Emily Clay,2
+308,32,PER,Avery,3
+310,33,PER,Doctor Spencer,3
+311,32,PER,old Mr. Abbey,7
+313,32,PER,Matthew,19
+314,32,PER,Martin,4
+316,33,PER,John,2
+318,33,PER,Mr. Sadler,4
+1094,16,PER,Minnie May,4
+1099,16,PER,Minnie May,2
+1593,27,PER,Minnie May,2
+3066,16,PER,Minnie May,2
+3081,16,PER,Minnie May,2
+3083,16,PER,Minnie May,8
+3160,17,PER,Minnie May,2

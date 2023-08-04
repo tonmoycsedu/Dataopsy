@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="ui container">
+	<div class="row" style="border-bottom: 0.05rem solid gray;">
+		<p class="title">Dataopsy: Aggregate Query Sculpting</p>
+	</div>
+	<div class="ui grid">
+		<div id="viz_parent" class="sixteen wide column"></div>
+	</div>
+</div>
+
+<!-- Main JavaScript -->
+<script type = "text/javascript" src="{{ url_for('static', filename='vendor/jquery/jquery-3.3.1.min.js') }}"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="{{ url_for('static', filename='vendor/semantic2.4/semantic.min.js') }}"></script>
+<script type="text/javascript">
+	var data = {{ data | tojson}}
+	var index = {{ index | tojson}}
+	var value_column = {{ value_column | tojson}}
+	// console.log(data)	
+</script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/data.js') }}"></script>
+<script src="{{ url_for('static', filename='js/interaction.js') }}"></script>
+<script src="{{ url_for('static', filename='js/card.js') }}"></script>
+<script src="{{ url_for('static', filename='js/label.js') }}"></script>
+<script src="{{ url_for('static', filename='js/visualization.js') }}"></script>
+<script src="{{ url_for('static', filename='js/index.js') }}"></script>
+
+{% endblock content %}

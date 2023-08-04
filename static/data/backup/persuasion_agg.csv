@@ -1,0 +1,664 @@
+COREF,COREF_head,cat,chapter,count
+92,Anne,PER,0,20
+94,Charles,PER,0,1
+95,Charles,PER,0,2
+4,Cheshire,GPE,0,1
+96,Dugdale,PER,0,1
+90,Elizabeth,PER,0,63
+91,James Stevenson,PER,0,1
+5,Kellynch Hall,GPE,0,1
+1,Kellynch Hall,FAC,0,5
+99,Lady Elliot,PER,0,20
+100,Lady Russell,PER,0,21
+6,London,GPE,0,2
+93,Mary,PER,0,6
+89,Mr Elliot,PER,0,39
+101,Mr Shepherd,PER,0,8
+88,Sir Walter,PER,0,69
+2,Somersetshire,GPE,0,1
+7,Tattersall 's,FAC,0,1
+3,Uppercross,GPE,0,1
+98,William Walter Elliot,PER,0,1
+92,Anne,PER,1,41
+9,Bath,FAC,1,1
+9,Bath,GPE,1,7
+90,Elizabeth,PER,1,19
+105,John Shepherd,PER,1,1
+5,Kellynch Hall,GPE,1,1
+5,Kellynch Hall,PER,1,1
+1,Kellynch Hall,FAC,1,9
+10,Kellynch Lodge,FAC,1,1
+100,Lady Russell,PER,1,40
+6,London,GPE,1,6
+93,Mary,PER,1,1
+101,Mr Shepherd,PER,1,27
+103,Mrs Clay,PER,1,3
+88,Sir Walter,PER,1,47
+107,Admiral Baldwin,PER,2,6
+109,Admiral Croft,PER,2,19
+92,Anne,PER,2,55
+115,Captain Wentworth,PER,2,18
+90,Elizabeth,PER,2,4
+105,John Shepherd,PER,2,1
+5,Kellynch Hall,GPE,2,1
+5,Kellynch Hall,PER,2,2
+1,Kellynch Hall,FAC,2,3
+100,Lady Russell,PER,2,7
+106,Lord St Ives,PER,2,2
+13,Monkford,GPE,2,7
+101,Mr Shepherd,PER,2,49
+113,Mr Wentworth,PER,2,10
+103,Mrs Clay,PER,2,22
+110,Mrs Croft,PER,2,9
+111,Penelope,PER,2,3
+108,Sir Basil,PER,2,4
+88,Sir Walter,PER,2,53
+2,Somersetshire,GPE,2,2
+14,St Domingo,GPE,2,1
+11,Taunton,GPE,2,4
+112,old Governor Trent,PER,2,1
+114,the Crofts,PER,2,8
+12,the East Indies,LOC,2,1
+109,Admiral Croft,PER,3,4
+92,Anne,PER,3,97
+9,Bath,FAC,3,1
+9,Bath,GPE,3,7
+115,Captain Wentworth,PER,3,10
+95,Charles,PER,3,1
+90,Elizabeth,PER,3,4
+16,England,GPE,3,1
+5,Kellynch Hall,GPE,3,3
+1,Kellynch Hall,FAC,3,2
+10,Kellynch Lodge,FAC,3,1
+100,Lady Russell,PER,3,22
+93,Mary,PER,3,7
+126,Michaelmas,GPE,3,1
+101,Mr Shepherd,PER,3,2
+103,Mrs Clay,PER,3,2
+110,Mrs Croft,PER,3,4
+116,Providence,PER,3,1
+88,Sir Walter,PER,3,11
+11,Taunton,GPE,3,1
+117,The Baronet,PER,3,2
+19,Uppercross Cottage,FAC,3,2
+114,the Crofts,PER,3,5
+109,Admiral Croft,PER,4,1
+92,Anne,PER,4,161
+9,Bath,GPE,4,3
+95,Charles,PER,4,53
+90,Elizabeth,PER,4,29
+121,Henrietta,PER,4,2
+5,Kellynch Hall,GPE,4,2
+5,Kellynch Hall,PER,4,1
+1,Kellynch Hall,FAC,4,1
+100,Lady Russell,PER,4,14
+118,Little Charles,PER,4,1
+122,Louisa,PER,4,2
+120,Mackenzie,PER,4,2
+93,Mary,PER,4,57
+103,Mrs Clay,PER,4,16
+110,Mrs Croft,PER,4,1
+88,Sir Walter,PER,4,4
+123,The Mr Musgroves,PER,4,4
+3,Uppercross,GPE,4,5
+19,Uppercross Cottage,FAC,4,3
+119,the Miss Musgroves,PER,4,4
+20,the Pooles,FAC,4,1
+92,Anne,PER,5,81
+115,Captain Wentworth,PER,5,25
+130,Captain Wentworth,PER,5,24
+95,Charles,PER,5,65
+23,Clifton,GPE,5,1
+129,Dick,PER,5,6
+127,Edward,PER,5,1
+16,England,GPE,5,1
+124,Jemima,PER,5,6
+5,Kellynch Hall,GPE,5,4
+5,Kellynch Hall,PER,5,1
+2408,Lord,PER,5,1
+122,Louisa,PER,5,9
+93,Mary,PER,5,33
+128,Mary--,PER,5,2
+126,Michaelmas,PER,5,1
+131,Mr Robinson,PER,5,3
+113,Mr Wentworth,PER,5,1
+110,Mrs Croft,PER,5,19
+123,The Mr Musgroves,PER,5,1
+3,Uppercross,GPE,5,3
+114,the Crofts,PER,5,11
+22,the Laconia,LOC,5,2
+119,the Miss Musgroves,PER,5,5
+109,Admiral Croft,PER,6,1
+92,Anne,PER,6,98
+115,Captain Wentworth,PER,6,76
+130,Captain Wentworth,PER,6,1
+95,Charles,PER,6,56
+129,Dick,PER,6,4
+29,Gibraltar,GPE,6,2
+135,Heaven,PER,6,1
+121,Henrietta,PER,6,1
+124,Jemima,PER,6,1
+122,Louisa,PER,6,1
+93,Mary,PER,6,69
+133,Mary:--,PER,6,1
+110,Mrs Croft,PER,6,1
+27,Plymouth,GPE,6,1
+139,Poor Harville,PER,6,6
+136,Reported,PER,6,1
+134,Sophy,PER,6,1
+26,The Admiralty,ORG,6,1
+26,The Admiralty,PER,6,3
+3,Uppercross,GPE,6,2
+24,the Asp,PER,6,1
+24,the Asp,VEH,6,2
+138,the Great Nation,PER,6,1
+22,the Laconia,FAC,6,1
+22,the Laconia,LOC,6,2
+32,the Mediterranean,LOC,6,1
+119,the Miss Musgroves,PER,6,10
+28,the Sound,LOC,6,1
+25,the West Indies,LOC,6,1
+92,Anne,PER,7,75
+39,Bahama,GPE,7,1
+38,Bermuda,GPE,7,1
+142,Captain Croft,PER,7,1
+115,Captain Wentworth,PER,7,105
+94,Charles,PER,7,45
+95,Charles,PER,7,19
+36,Cork,GPE,7,1
+147,Cousin Charles,PER,7,1
+40,Deal,GPE,7,1
+152,Dr Shirley,PER,7,17
+127,Edward,PER,7,1
+16,England,GPE,7,1
+29,Gibraltar,GPE,7,1
+121,Henrietta,PER,7,36
+5,Kellynch Hall,GPE,7,1
+1,Kellynch Hall,FAC,7,1
+148,Lady Wentworth,PER,7,2
+33,Lisbon,GPE,7,2
+122,Louisa,PER,7,20
+93,Mary,PER,7,30
+146,Mr Hayter,PER,7,2
+110,Mrs Croft,PER,7,23
+140,Mrs Harville,PER,7,6
+145,Mrs Hayter,PER,7,1
+27,Plymouth,GPE,7,2
+34,Portsmouth,GPE,7,1
+42,Shropshire,GPE,7,1
+149,Sir Frederick,PER,7,1
+134,Sophy,PER,7,1
+11,Taunton,GPE,7,1
+3,Uppercross,GPE,7,4
+144,Uppercross,PER,7,4
+43,Winthrop,GPE,7,1
+43,Winthrop,PER,7,1
+35,the Atlantic,LOC,7,1
+12,the East Indies,LOC,7,1
+143,the Hayters,PER,7,4
+119,the Miss Musgroves,PER,7,9
+41,the North Seas,LOC,7,1
+25,the West Indies,LOC,7,2
+92,Anne,PER,8,49
+115,Captain Wentworth,PER,8,38
+94,Charles,PER,8,36
+95,Charles,PER,8,4
+121,Henrietta,PER,8,11
+122,Louisa,PER,8,60
+93,Mary,PER,8,41
+88,Sir Walter,PER,8,21
+3,Uppercross,GPE,8,1
+144,Uppercross,PER,8,1
+43,Winthrop,FAC,8,1
+43,Winthrop,GPE,8,6
+43,Winthrop,PER,8,1
+119,the Miss Musgroves,PER,8,5
+109,Admiral Croft,PER,9,1
+92,Anne,PER,9,106
+155,Captain Benwick,PER,9,46
+153,Captain Harville,PER,9,35
+115,Captain Wentworth,PER,9,75
+158,Captains Wentworth,PER,9,1
+94,Charles,PER,9,27
+95,Charles,PER,9,4
+48,Charmouth,GPE,9,1
+16,England,GPE,9,1
+157,Fanny Harville,PER,9,3
+156,Fortune,PER,9,1
+121,Henrietta,PER,9,4
+5,Kellynch Hall,GPE,9,2
+100,Lady Russell,PER,9,6
+122,Louisa,PER,9,10
+46,Lyme,FAC,9,3
+46,Lyme,GPE,9,14
+46,Lyme,LOC,9,1
+159,Marmion,PER,9,1
+93,Mary,PER,9,20
+110,Mrs Croft,PER,9,9
+140,Mrs Harville,PER,9,3
+45,North Yarmouth,GPE,9,1
+49,Pinny,FAC,9,1
+49,Pinny,GPE,9,1
+134,Sophy,PER,9,1
+3,Uppercross,GPE,9,7
+50,Wight,GPE,9,1
+47,the Cobb,FAC,9,3
+160,the Giaour,PER,9,2
+154,the Harvilles,PER,9,2
+22,the Laconia,LOC,9,1
+119,the Miss Musgroves,PER,9,1
+92,Anne,PER,10,80
+9,Bath,GPE,10,2
+155,Captain Benwick,PER,10,31
+153,Captain Harville,PER,10,2
+115,Captain Wentworth,PER,10,33
+158,Captains Wentworth,PER,10,1
+95,Charles,PER,10,10
+162,Crewkherne,PER,10,1
+152,Dr Shirley,PER,10,26
+90,Elizabeth,PER,10,2
+121,Henrietta,PER,10,26
+91,James Stevenson,PER,10,1
+165,June,PER,10,1
+5,Kellynch Hall,GPE,10,1
+100,Lady Russell,PER,10,7
+6,London,GPE,10,1
+164,Lord Byron,PER,10,2
+122,Louisa,PER,10,29
+46,Lyme,GPE,10,6
+93,Mary,PER,10,27
+89,Mr Elliot,PER,10,26
+163,Mr Scott,PER,10,1
+140,Mrs Harville,PER,10,5
+161,Mrs Shirley,PER,10,6
+27,Plymouth,GPE,10,2
+27,Plymouth,PER,10,1
+34,Portsmouth,GPE,10,2
+116,Providence,PER,10,1
+88,Sir Walter,PER,10,1
+3,Uppercross,GPE,10,6
+53,the Cape,LOC,10,1
+47,the Cobb,FAC,10,2
+47,the Cobb,LOC,10,1
+166,the Grappler,PER,10,2
+22,the Laconia,PER,10,1
+55,the Lower Cobb,FAC,10,1
+119,the Miss Musgroves,PER,10,1
+109,Admiral Croft,PER,11,1
+92,Anne,PER,11,177
+9,Bath,GPE,11,1
+9,Bath,PER,11,1
+58,Camden Place,FAC,11,2
+155,Captain Benwick,PER,11,64
+153,Captain Harville,PER,11,6
+115,Captain Wentworth,PER,11,54
+94,Charles,PER,11,28
+95,Charles,PER,11,46
+48,Charmouth,GPE,11,1
+162,Crewkherne,GPE,11,1
+152,Dr Shirley,PER,11,1
+121,Henrietta,PER,11,38
+5,Kellynch Hall,GPE,11,3
+1,Kellynch Hall,FAC,11,2
+100,Lady Russell,PER,11,21
+122,Louisa,PER,11,51
+46,Lyme,GPE,11,16
+93,Mary,PER,11,51
+89,Mr Elliot,PER,11,1
+101,Mr Shepherd,PER,11,1
+103,Mrs Clay,PER,11,2
+110,Mrs Croft,PER,11,5
+140,Mrs Harville,PER,11,25
+168,Sarah,PER,11,1
+88,Sir Walter,PER,11,1
+134,Sophy,PER,11,1
+3,Uppercross,FAC,11,2
+3,Uppercross,GPE,11,13
+144,Uppercross,PER,11,2
+47,the Cobb,FAC,11,2
+47,the Cobb,LOC,11,1
+47,the Cobb,PER,11,1
+114,the Crofts,PER,11,17
+154,the Harvilles,FAC,11,1
+154,the Harvilles,PER,11,9
+59,the Lodge,FAC,11,1
+119,the Miss Musgroves,PER,11,1
+92,Anne,PER,12,65
+9,Bath,FAC,12,1
+9,Bath,GPE,12,8
+58,Camden Place,FAC,12,7
+155,Captain Benwick,PER,12,46
+115,Captain Wentworth,PER,12,18
+94,Charles,PER,12,15
+95,Charles,PER,12,6
+172,Colonel Wallis,PER,12,5
+90,Elizabeth,PER,12,17
+121,Henrietta,PER,12,2
+5,Kellynch Hall,GPE,12,2
+5,Kellynch Hall,PER,12,2
+1,Kellynch Hall,FAC,12,1
+100,Lady Russell,PER,12,59
+6,London,GPE,12,1
+122,Louisa,PER,12,13
+46,Lyme,GPE,12,1
+62,Marlborough Buildings,FAC,12,1
+93,Mary,PER,12,19
+171,Miss Harville,PER,12,1
+89,Mr Elliot,PER,12,68
+103,Mrs Clay,PER,12,3
+140,Mrs Harville,PER,12,1
+27,Plymouth,GPE,12,1
+61,Rivers Street,FAC,12,1
+42,Shropshire,GPE,12,1
+88,Sir Walter,PER,12,9
+3,Uppercross,GPE,12,5
+144,Uppercross,PER,12,1
+154,the Harvilles,PER,12,1
+119,the Miss Musgroves,PER,12,1
+92,Anne,PER,13,92
+9,Bath,GPE,13,4
+9,Bath,PER,13,1
+58,Camden Place,FAC,13,2
+58,Camden Place,GPE,13,1
+172,Colonel Wallis,PER,13,6
+175,Dowager Viscountess Dalrymple,PER,13,2
+90,Elizabeth,PER,13,17
+65,Gowland,GPE,13,2
+100,Lady Russell,PER,13,8
+64,Lansdown Crescent,FAC,13,1
+46,Lyme,GPE,13,6
+62,Marlborough Buildings,FAC,13,1
+93,Mary,PER,13,7
+126,Michaelmas,PER,13,1
+176,Miss Carteret,PER,13,1
+89,Mr Elliot,PER,13,125
+103,Mrs Clay,PER,13,24
+173,Mrs Wallis,PER,13,11
+88,Sir Walter,PER,13,6
+174,Sir Walter,PER,13,13
+144,Uppercross,PER,13,1
+177,the Dalrymples,PER,13,2
+178,the Elliots,PER,13,1
+92,Anne,PER,14,124
+9,Bath,GPE,14,6
+58,Camden Place,FAC,14,1
+58,Camden Place,GPE,14,1
+175,Dowager Viscountess Dalrymple,PER,14,1
+90,Elizabeth,PER,14,3
+67,Ireland,GPE,14,1
+5,Kellynch Hall,GPE,14,2
+179,Lady Dalrymple,PER,14,15
+99,Lady Elliot,PER,14,2
+100,Lady Russell,PER,14,6
+69,Laura,GPE,14,1
+68,Laura Place,FAC,14,4
+68,Laura Place,GPE,14,1
+6,London,GPE,14,1
+62,Marlborough Buildings,FAC,14,1
+176,Miss Carteret,PER,14,6
+180,Miss Hamilton,PER,14,21
+89,Mr Elliot,PER,14,10
+103,Mrs Clay,PER,14,3
+183,Mrs Rooke,PER,14,2
+181,Mrs Smith,PER,14,35
+173,Mrs Wallis,PER,14,4
+182,Nurse Rooke,PER,14,8
+88,Sir Walter,PER,14,9
+174,Sir Walter,PER,14,5
+71,Westgate Buildings,FAC,14,4
+177,the Dalrymples,PER,14,2
+178,the Elliots,PER,14,1
+109,Admiral Croft,PER,15,6
+92,Anne,PER,15,89
+9,Bath,GPE,15,7
+9,Bath,PER,15,1
+155,Captain Benwick,PER,15,2
+153,Captain Harville,PER,15,1
+115,Captain Wentworth,PER,15,3
+94,Charles,PER,15,7
+95,Charles,PER,15,7
+172,Colonel Wallis,PER,15,1
+90,Elizabeth,PER,15,7
+16,England,GPE,15,1
+121,Henrietta,PER,15,5
+67,Ireland,GPE,15,1
+124,Jemima,PER,15,1
+5,Kellynch Hall,FAC,15,1
+5,Kellynch Hall,GPE,15,1
+5,Kellynch Hall,PER,15,3
+99,Lady Elliot,PER,15,2
+100,Lady Russell,PER,15,35
+122,Louisa,PER,15,19
+46,Lyme,GPE,15,3
+93,Mary,PER,15,2
+187,Mary,PER,15,1
+89,Mr Elliot,PER,15,45
+103,Mrs Clay,PER,15,7
+110,Mrs Croft,PER,15,2
+140,Mrs Harville,PER,15,5
+181,Mrs Smith,PER,15,8
+184,Sir Henry Russell,PER,15,1
+88,Sir Walter,PER,15,6
+185,Sunday,PER,15,1
+3,Uppercross,GPE,15,3
+19,Uppercross Cottage,FAC,15,1
+71,Westgate Buildings,FAC,15,2
+114,the Crofts,PER,15,61
+154,the Harvilles,PER,15,9
+143,the Hayters,PER,15,1
+189,Admiral Brand,PER,16,1
+109,Admiral Croft,PER,16,8
+92,Anne,PER,16,132
+9,Bath,GPE,16,8
+9,Bath,PER,16,1
+76,Belmont,GPE,16,1
+76,Belmont,PER,16,1
+188,Brigden,PER,16,2
+58,Camden Place,FAC,16,1
+155,Captain Benwick,PER,16,22
+115,Captain Wentworth,PER,16,62
+94,Charles,PER,16,1
+95,Charles,PER,16,6
+40,Deal,GPE,16,1
+127,Edward,PER,16,2
+90,Elizabeth,PER,16,6
+73,Gay Street,FAC,16,1
+121,Henrietta,PER,16,1
+192,James Benwick,PER,16,4
+5,Kellynch Hall,GPE,16,1
+1,Kellynch Hall,FAC,16,1
+179,Lady Dalrymple,PER,16,10
+100,Lady Russell,PER,16,21
+68,Laura Place,FAC,16,1
+164,Lord Byron,PER,16,1
+122,Louisa,PER,16,32
+46,Lyme,GPE,16,3
+187,Mary,PER,16,9
+75,Milsom Street,FAC,16,3
+75,Milsom Street,GPE,16,1
+77,Minehead,GPE,16,1
+176,Miss Carteret,PER,16,2
+194,Molland,PER,16,1
+89,Mr Elliot,PER,16,9
+163,Mr Scott,PER,16,1
+103,Mrs Clay,PER,16,13
+110,Mrs Croft,PER,16,7
+140,Mrs Harville,PER,16,1
+45,North Yarmouth,GPE,16,2
+27,Plymouth,GPE,16,1
+193,Poor Frederick,PER,16,4
+190,Poor old Sir Archibald,PER,16,7
+88,Sir Walter,PER,16,10
+134,Sophy,PER,16,4
+78,Union Street,FAC,16,1
+3,Uppercross,GPE,16,3
+144,Uppercross,PER,16,1
+47,the Cobb,FAC,16,1
+114,the Crofts,PER,16,25
+178,the Elliots,PER,16,1
+143,the Hayters,PER,16,1
+119,the Miss Musgroves,PER,16,1
+92,Anne,PER,17,261
+9,Bath,GPE,17,6
+58,Camden Place,FAC,17,2
+155,Captain Benwick,PER,17,15
+115,Captain Wentworth,PER,17,111
+172,Colonel Wallis,PER,17,3
+175,Dowager Viscountess Dalrymple,PER,17,1
+90,Elizabeth,PER,17,12
+157,Fanny Harville,PER,17,2
+198,Irish,PER,17,1
+5,Kellynch Hall,PER,17,1
+196,Lady Alicia,PER,17,1
+179,Lady Dalrymple,PER,17,10
+100,Lady Russell,PER,17,16
+122,Louisa,PER,17,10
+46,Lyme,GPE,17,9
+195,Miss Atkinson,PER,17,6
+176,Miss Carteret,PER,17,3
+13,Monkford,GPE,17,1
+89,Mr Elliot,PER,17,69
+113,Mr Wentworth,PER,17,2
+103,Mrs Clay,PER,17,2
+197,Mrs Frankland,PER,17,1
+181,Mrs Smith,PER,17,16
+80,Pulteney Street,FAC,17,1
+88,Sir Walter,PER,17,8
+2,Somersetshire,GPE,17,1
+79,The Wallises,FAC,17,1
+119,the Miss Musgroves,PER,17,2
+92,Anne,PER,18,185
+9,Bath,GPE,18,2
+58,Camden Place,FAC,18,1
+115,Captain Wentworth,PER,18,28
+172,Colonel Wallis,PER,18,2
+201,Italian,PER,18,1
+179,Lady Dalrymple,PER,18,2
+100,Lady Russell,PER,18,1
+62,Marlborough Buildings,FAC,18,1
+93,Mary,PER,18,5
+176,Miss Carteret,PER,18,1
+199,Miss Larolles,PER,18,2
+89,Mr Elliot,PER,18,66
+183,Mrs Rooke,PER,18,1
+181,Mrs Smith,PER,18,86
+205,Mrs Speed,PER,18,1
+173,Mrs Wallis,PER,18,2
+182,Nurse Rooke,PER,18,1
+202,The little Durands,PER,18,7
+3,Uppercross,GPE,18,1
+71,Westgate Buildings,FAC,18,1
+92,Anne,PER,19,113
+9,Bath,GPE,19,7
+58,Camden Place,FAC,19,2
+206,Charles Smith,PER,19,1
+172,Colonel Wallis,PER,19,12
+5,Kellynch Hall,GPE,19,2
+99,Lady Elliot,PER,19,2
+6,London,GPE,19,1
+46,Lyme,GPE,19,3
+62,Marlborough Buildings,PER,19,1
+93,Mary,PER,19,1
+89,Mr Elliot,PER,19,193
+103,Mrs Clay,PER,19,7
+183,Mrs Rooke,PER,19,3
+181,Mrs Smith,PER,19,194
+173,Mrs Wallis,PER,19,4
+209,September,PER,19,1
+88,Sir Walter,PER,19,7
+210,Sir William,PER,19,1
+81,Tunbridge Wells,GPE,19,1
+92,Anne,PER,20,285
+9,Bath,GPE,20,10
+58,Camden Place,FAC,20,4
+58,Camden Place,GPE,20,1
+155,Captain Benwick,PER,20,15
+153,Captain Harville,PER,20,13
+115,Captain Wentworth,PER,20,48
+213,Captains Harville,PER,20,1
+94,Charles,PER,20,22
+95,Charles,PER,20,84
+84,Dorsetshire,GPE,20,1
+90,Elizabeth,PER,20,60
+121,Henrietta,PER,20,24
+5,Kellynch Hall,GPE,20,1
+196,Lady Alicia,PER,20,2
+179,Lady Dalrymple,PER,20,3
+100,Lady Russell,PER,20,22
+122,Louisa,PER,20,8
+46,Lyme,PER,20,1
+93,Mary,PER,20,63
+176,Miss Carteret,PER,20,1
+89,Mr Elliot,PER,20,119
+211,Mr Smith,PER,20,5
+113,Mr Wentworth,GPE,20,1
+103,Mrs Clay,PER,20,28
+110,Mrs Croft,PER,20,21
+140,Mrs Harville,PER,20,4
+181,Mrs Smith,PER,20,18
+111,Penelope,PER,20,3
+61,Rivers Street,FAC,20,3
+88,Sir Walter,PER,20,14
+216,Thornberry,PER,20,1
+82,Thornberry Park,FAC,20,1
+3,Uppercross,GPE,20,3
+43,Winthrop,PER,20,1
+177,the Dalrymples,PER,20,1
+119,the Miss Musgroves,PER,20,2
+212,the Smiths,PER,20,3
+83,the White Hart,FAC,20,3
+109,Admiral Croft,PER,21,1
+92,Anne,PER,21,206
+9,Bath,GPE,21,3
+76,Belmont,GPE,21,1
+58,Camden Place,FAC,21,1
+58,Camden Place,GPE,21,1
+155,Captain Benwick,PER,21,10
+153,Captain Harville,PER,21,48
+115,Captain Wentworth,PER,21,115
+95,Charles,PER,21,85
+127,Edward,PER,21,3
+90,Elizabeth,PER,21,1
+16,England,GPE,21,1
+157,Fanny Harville,PER,21,4
+73,Gay Street,FAC,21,1
+135,Heaven,PER,21,1
+121,Henrietta,PER,21,1
+5,Kellynch Hall,GPE,21,1
+179,Lady Dalrymple,PER,21,1
+100,Lady Russell,PER,21,24
+122,Louisa,PER,21,15
+46,Lyme,GPE,21,4
+93,Mary,PER,21,7
+75,Milsom Street,FAC,21,1
+176,Miss Carteret,PER,21,1
+89,Mr Elliot,PER,21,7
+103,Mrs Clay,PER,21,1
+110,Mrs Croft,PER,21,9
+116,Providence,PER,21,1
+168,Sarah,PER,21,2
+42,Shropshire,GPE,21,1
+88,Sir Walter,PER,21,11
+79,The Wallises,PER,21,2
+78,Union Street,FAC,21,2
+3,Uppercross,GPE,21,1
+43,Winthrop,GPE,21,1
+47,the Cobb,FAC,21,1
+154,the Harvilles,PER,21,1
+22,the Laconia,LOC,21,1
+119,the Miss Musgroves,PER,21,1
+92,Anne,PER,22,19
+9,Bath,GPE,22,1
+155,Captain Benwick,PER,22,1
+115,Captain Wentworth,PER,22,16
+94,Charles,PER,22,1
+90,Elizabeth,PER,22,1
+100,Lady Russell,PER,22,16
+6,London,GPE,22,1
+93,Mary,PER,22,4
+89,Mr Elliot,PER,22,15
+103,Mrs Clay,PER,22,8
+181,Mrs Smith,PER,22,16
+88,Sir Walter,PER,22,6
+210,Sir William,PER,22,1
+87,no Uppercross Hall,FAC,22,1
